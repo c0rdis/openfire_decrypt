@@ -13,7 +13,7 @@ Originally published at https://hashcat.net/forum/archive/index.php?thread-2399.
 <code> hashcat (hex: 0068006100730068006300610074) </code>
 
 <h4> Known issue:</h4>
-Failing to run due to lack of unlimited strength files. Example of error:
+Failure to decrypt due to lack of unlimited strength files. Example of error:
 
 <code> Exception in thread "main" java.security.InvalidKeyException: Illegal key size </code>
 
